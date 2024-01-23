@@ -1,0 +1,5 @@
+Code,Student Type,Type,Program Name,School,Degree(s),Status,Active Term,Inactive Term,End Term,Campus,Note
+ABAO,graduate,majors,Applied Behavior Analysis,ED,M.S.,active,202201,,,,Online
+ACTG,undergraduate,majors,Bogus,BUS,"B.A., B.S.",active,,,,,
+ACTG,graduate,majors,Accounting,BUS,"Ph.D., M.Actg.",active,,,,,
+ADBR,graduate,majors,Advertising and Brand Responsibility,SOJC,"M.A., M.S.",active,201701,,,,
